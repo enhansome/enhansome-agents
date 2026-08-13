@@ -1,0 +1,2292 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw",
+          "description": "Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:33:41Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 386170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "The agent that grows with you",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:38:56Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 229942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "the original 🐍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:17:51Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autogen",
+          "description": "Enable Next-Gen Large Language Model Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "Cutting-edge framework for orchestrating role-playing, autonomous AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:42:05Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": "provides a central interface to connect your LLM's with external data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:49Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanobot",
+          "description": "Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:05:05Z",
+            "owner": "HKUDS",
+            "repo": "nanobot",
+            "stars": 46934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentScope",
+          "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:17:58Z",
+            "owner": "agentscope-ai",
+            "repo": "agentscope",
+            "stars": 28918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smolagents",
+          "description": "Open-source Python library designed to make it extremely easy to build and run agents using just a few lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T18:35:00Z",
+            "owner": "huggingface",
+            "repo": "smolagents",
+            "stars": 28794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Kernel",
+          "description": "Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:05:12Z",
+            "owner": "microsoft",
+            "repo": "semantic-kernel",
+            "stars": 28445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastra",
+          "description": "Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:31:50Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack",
+          "description": "NLP framework to interact with your data using Transformer models and LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:31:47Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swarm",
+          "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration by OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T17:10:28Z",
+            "owner": "openai",
+            "repo": "swarm",
+            "stars": 21903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Botpress",
+          "description": "The building blocks for building chatbots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:08:04Z",
+            "owner": "botpress",
+            "repo": "botpress",
+            "stars": 14862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipecat",
+          "description": "Open Source framework for voice and multimodal conversational AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:31:49Z",
+            "owner": "pipecat-ai",
+            "repo": "pipecat",
+            "stars": 14098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2b",
+          "description": "Open-source platform for building & deploying virtual developers’ agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:27:33Z",
+            "owner": "e2b-dev",
+            "repo": "E2B",
+            "stars": 13380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hive",
+          "description": "Open-source AI agent framework for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration, and 100+ tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:52:10Z",
+            "owner": "aden-hive",
+            "repo": "hive",
+            "stars": 10905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent",
+          "description": "An open source TypeScript Framework for building AI agents with built-in LLM observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:24:53Z",
+            "owner": "VoltAgent",
+            "repo": "voltagent",
+            "stars": 10349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astron",
+          "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T12:30:18Z",
+            "owner": "iflytek",
+            "repo": "astron-agent",
+            "stars": 9197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraisonAI",
+          "description": "Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, workflows, memory, and both Python & JavaScript SDKs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:46:05Z",
+            "owner": "MervinPraison",
+            "repo": "PraisonAI",
+            "stars": 8837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upsonic",
+          "description": "Reliable agent framework that supports MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T14:55:50Z",
+            "owner": "Upsonic",
+            "repo": "Upsonic",
+            "stars": 7937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swarms Framework",
+          "description": "Bleeding-Edge Multi-Agent Orchestration Framework for Enterprise Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:10:30Z",
+            "owner": "kyegomez",
+            "repo": "swarms",
+            "stars": 7045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents SDK",
+          "description": "A model-driven approach to building AI agents in just a few lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:55:58Z",
+            "owner": "strands-agents",
+            "repo": "harness-sdk",
+            "stars": 6896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Multi-Agent",
+          "description": "TypeScript-native multi-agent orchestration that plans task DAGs at runtime in your own environment, with approval gates, tracing, evaluation, checkpoints, and resume support. Requires Node.js 20+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:04:28Z",
+            "owner": "open-multi-agent",
+            "repo": "open-multi-agent",
+            "stars": 6772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentVerse",
+          "description": "Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG2",
+          "description": "AG2 (from AutoGen creators) is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:39:38Z",
+            "owner": "ag2ai",
+            "repo": "ag2",
+            "stars": 4855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agency-swarm",
+          "description": "Reliable agent framework built on top of the latest OpenAI Assistants API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T18:44:54Z",
+            "owner": "VRSEN",
+            "repo": "agency-swarm",
+            "stars": 4521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro",
+          "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T06:49:15Z",
+            "owner": "Doriandarko",
+            "repo": "maestro",
+            "stars": 4360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGiXT",
+          "description": "Dynamic AI agent automation platform that orchestrates instruction following and complex task management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T05:57:41Z",
+            "owner": "Josh-XT",
+            "repo": "AGiXT",
+            "stars": 3208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Context Engine",
+          "description": "Self-improving agents that learn from execution feedback. LangChain integration for agents that curate their own context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:36:10Z",
+            "owner": "kayba-ai",
+            "repo": "agentic-context-engine",
+            "stars": 2550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentField",
+          "description": "Open-source infrastructure for AI backends. Kubernetes for orchestration, Okta for identity—production-ready from day one.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:05:42Z",
+            "owner": "Agent-Field",
+            "repo": "agentfield",
+            "stars": 2508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lagent",
+          "description": "A lightweight framework for building LLM-based agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:18:16Z",
+            "owner": "InternLM",
+            "repo": "lagent",
+            "stars": 2275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentset",
+          "description": "Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T13:11:34Z",
+            "owner": "agentset-ai",
+            "repo": "agentset",
+            "stars": 2056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trpc-agent-go",
+          "description": "Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T09:45:34Z",
+            "owner": "trpc-group",
+            "repo": "trpc-agent-go",
+            "stars": 1685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentDock",
+          "description": "Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-07-14T07:40:00Z",
+            "owner": "AgentDock",
+            "repo": "AgentDock",
+            "stars": 1683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dust",
+          "description": "Design and Deploy Large Language Model Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:33:44Z",
+            "owner": "dust-tt",
+            "repo": "dust",
+            "stars": 1438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConnectOnion",
+          "description": "Simple Python framework for production-ready AI agents — 2-line creation, functions as tools, 12 lifecycle hooks, plugin system, multi-agent networking with trust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:16:29Z",
+            "owner": "openonion",
+            "repo": "connectonion",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentlas-OS",
+          "description": "Local-first, model-agnostic Agent Operation Environment (AOE) for building, borrowing, and orchestrating specialist agents and teams across supported LLM hosts, with owner-scoped packages and host-enforced permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:24:26Z",
+            "owner": "agentlas-ai",
+            "repo": "Agentlas-OS",
+            "stars": 1156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Agents",
+          "description": "Build agents which are controlled by LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T14:01:18Z",
+            "owner": "mpaepper",
+            "repo": "llm_agents",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aeon",
+          "description": "Autonomous agent framework that runs unattended via GitHub Actions, with self-healing skills, output quality scoring, persistent memory, and reactive triggers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:46:25Z",
+            "owner": "aeonfun",
+            "repo": "aeon",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarmClaw",
+          "description": "Self-hosted AI runtime for multi-agent orchestration with heartbeats, schedules, delegation, memory, and runtime skills across OpenClaw, Claude Code, Codex, Gemini CLI, and major LLM providers. Ships as a desktop app (Electron) and CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:58:13Z",
+            "owner": "swarmclawai",
+            "repo": "swarmclaw",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cordum",
+          "description": "Out-of-process governance control plane for autonomous AI agents — pre-dispatch policy enforcement, approval gates, and signed audit trails for production governance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T08:10:10Z",
+            "owner": "cordum-io",
+            "repo": "cordum",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoongFlow",
+          "description": "A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T12:12:52Z",
+            "owner": "baidu-baige",
+            "repo": "LoongFlow",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcom",
+          "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T16:52:44Z",
+            "owner": "aannoo",
+            "repo": "hcom",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex Memory",
+          "description": "A complete solution for agent memory, from extraction and vector search to automated optimization, with a REST API, MCP, CLI, and insights dashboard out-of-the-box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T03:33:42Z",
+            "owner": "sopaco",
+            "repo": "cortex-mem",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobu",
+          "description": "Open-source context and control plane for AI agents. Connect company tools once and share permission-aware context across ChatGPT, Claude, Codex, OpenClaw and custom agents, with MCP, scoped identities, approvals and audit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:55:27Z",
+            "owner": "lobu-ai",
+            "repo": "lobu",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ailoy",
+          "description": "A comprehensive framework for building AI agents that run anywhere, with full local-AI and WASM support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T08:10:14Z",
+            "owner": "brekkylab",
+            "repo": "ailoy",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pilot Protocol",
+          "description": "An overlay network stack that gives AI agents virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust. Zero dependencies, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T20:36:57Z",
+            "owner": "pilot-protocol",
+            "repo": "pilotprotocol",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vectara-agentic",
+          "description": "Vectara-agentic is a framework for creating AI Assistants and agents using Vectara.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-10T21:54:02Z",
+            "owner": "vectara",
+            "repo": "py-vectara-agentic",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenProgram",
+          "description": "Self-programming AI agent framework where agents create and refine their own workflows, with multi-agent orchestration, persistent sessions, sandboxed execution, and desktop and web interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:06:20Z",
+            "owner": "Fzkuji",
+            "repo": "OpenProgram",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arize-Phoenix",
+          "description": "Arize-Phoenix is an open source library for agent testing, evaluation and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:57:43Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifest",
+          "description": "Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:17:18Z",
+            "owner": "mnfst",
+            "repo": "manifest",
+            "stars": 7436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latitude",
+          "description": "Open-source LLM observability and evaluation platform for AI agents. Traces agent runs, clusters production failures into issues, and auto-generates evals from real-world failures. Built on OpenTelemetry, self-hostable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:30:30Z",
+            "owner": "latitude-dev",
+            "repo": "latitude-llm",
+            "stars": 4580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvoAgentX",
+          "description": "EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:07:14Z",
+            "owner": "EvoAgentX",
+            "repo": "EvoAgentX",
+            "stars": 3228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-qa",
+          "description": "Self-improving agentic QA harness for web and mobile tests. Write tests in natural language, use memory to adapt to UI changes, and catch regressions before releases ship.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-RAG-Eval",
+          "description": "an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T21:55:43Z",
+            "owner": "vectara",
+            "repo": "open-rag-eval",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice Lab",
+          "description": "A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T10:13:02Z",
+            "owner": "saharmor",
+            "repo": "voice-lab",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Testing and Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCode",
+          "description": "The AI coding agent built for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:32:57Z",
+            "owner": "anomalyco",
+            "repo": "opencode",
+            "stars": 196959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:23:06Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paperclip",
+          "description": "Open-source platform to run coding agents as managed workers with tasks, approvals, budgets, and workspaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:20:35Z",
+            "owner": "paperclipai",
+            "repo": "paperclip",
+            "stars": 77994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cline",
+          "description": "Open-source AI coding agent giving developers direct access to frontier models with full transparency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:50:15Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "aider is AI pair programming in your terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSPy",
+          "description": "The framework for programming—not prompting—foundation models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Pilot",
+          "description": "GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:38:25Z",
+            "owner": "Pythagora-io",
+            "repo": "gpt-pilot",
+            "stars": 33700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCodeReview",
+          "description": "An open-source hybrid code reviewer combining deterministic rules with an LLM agent (tool-use, line-level comments); self-hostable, bring-your-own model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T12:44:04Z",
+            "owner": "alibaba",
+            "repo": "open-code-review",
+            "stars": 20383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE Agent",
+          "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:08:15Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB GPT",
+          "description": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:24:40Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devika",
+          "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T08:47:36Z",
+            "owner": "stitionai",
+            "repo": "devika",
+            "stars": 19560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAGI",
+          "description": "SuperAGI - A dev-first open source autonomous AI agent framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T22:14:07Z",
+            "owner": "TransformerOptimus",
+            "repo": "SuperAGI",
+            "stars": 17653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plandex",
+          "description": "An AI coding engine for complex tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T21:49:58Z",
+            "owner": "plandex-ai",
+            "repo": "plandex",
+            "stars": 15580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Engineer",
+          "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T22:08:15Z",
+            "owner": "Doriandarko",
+            "repo": "claude-engineer",
+            "stars": 11226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ouroboros (Agent OS)",
+          "description": "A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that runs the semantic stage only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:06:12Z",
+            "owner": "Q00",
+            "repo": "ouroboros",
+            "stars": 5403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision agent",
+          "description": "Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T06:23:55Z",
+            "owner": "landing-ai",
+            "repo": "vision-agent",
+            "stars": 5292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro",
+          "description": "Desktop command center for running multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) in parallel, with Cue event automation, Auto Run playbooks, Group Chat across local and remote agents, and a maestro-cli that agents can drive themselves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:49:54Z",
+            "owner": "RunMaestro",
+            "repo": "Maestro",
+            "stars": 3246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CompozyOS",
+          "description": "Open-source operating system for AI agents — plug in the agent CLIs you already use and run them as a team on loops and schedules, with shared memory, permissions and approvals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:50:24Z",
+            "owner": "compozy",
+            "repo": "compozy",
+            "stars": 2537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codel",
+          "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-29T17:53:58Z",
+            "owner": "semanser",
+            "repo": "codel",
+            "stars": 2473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nanocoder",
+          "description": "Local-first CLI coding agent built with React and Ink.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:33:57Z",
+            "owner": "Nano-Collective",
+            "repo": "nanocoder",
+            "stars": 2346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentsMesh",
+          "description": "The AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T11:45:02Z",
+            "owner": "AgentsMesh",
+            "repo": "AgentsMesh",
+            "stars": 2306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cate",
+          "description": "Desktop IDE on an infinite zoomable canvas. Editors, terminals, browsers, and Claude Code agent panels float in spatial workspace instead of tabs; panels can dock or detach into separate windows. Electron + React + TypeScript, layout persists per project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T14:26:17Z",
+            "owner": "0-AI-UG",
+            "repo": "cate",
+            "stars": 2082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atomic Agent",
+          "description": "Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. No account or API key required, with 56 tools (browser, filesystem, git, memory, vision), MCP support, and 5-layer local memory. macOS, Linux, and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:57:12Z",
+            "owner": "AtomicBot-ai",
+            "repo": "atomic-agent",
+            "stars": 2008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Teams AI",
+          "description": "Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, Kanban, and code review across multiple agent runtimes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:13:15Z",
+            "owner": "777genius",
+            "repo": "agent-teams-ai",
+            "stars": 1918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stakpak",
+          "description": "Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T10:10:46Z",
+            "owner": "stakpak",
+            "repo": "agent",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeroshot",
+          "description": "CLI that orchestrates a planner, an implementer, and independent validators in isolated environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:24:55Z",
+            "owner": "the-open-engine",
+            "repo": "zeroshot",
+            "stars": 1701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitFun",
+          "description": "Open-source desktop agent with a Rust runtime for real repositories, browser, terminal, and desktop execution, extensible through MCP, Skills, and custom agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T12:52:27Z",
+            "owner": "GCWing",
+            "repo": "BitFun",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkGPT",
+          "description": "Agent techniques to augment your LLM and push it beyond its limits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-23T13:04:46Z",
+            "owner": "jina-ai",
+            "repo": "thinkgpt",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypedAI",
+          "description": "TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-22T08:48:06Z",
+            "owner": "TrafficGuard",
+            "repo": "typedai",
+            "stars": 1193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepoAgent",
+          "description": "An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-23T11:48:52Z",
+            "owner": "OpenBMB",
+            "repo": "RepoAgent",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bernstein",
+          "description": "Python orchestrator for 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider). One LLM plan call up front, then deterministic scheduling, git worktree isolation per task, quality gates, and an HMAC-chained audit log of every step. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:53:03Z",
+            "owner": "sipyourdrink-ltd",
+            "repo": "bernstein",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroAgent",
+          "description": "Agents Capable of Self-Editing Their Prompts / Python Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-15T10:33:38Z",
+            "owner": "aymenfurter",
+            "repo": "microagents",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fractal",
+          "description": "Runs Claude Code, Codex, and other coding agents as a recursive tree of autonomous loops. Each node works in its own git worktree and can delegate subtasks to child nodes, while a live terminal UI lets operators inspect and steer the tree within configurable time, cost, and depth limits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:25:40Z",
+            "owner": "plasma-ai",
+            "repo": "fractal",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tura",
+          "description": "A local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T00:33:06Z",
+            "owner": "Tura-AI",
+            "repo": "tura",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h5i",
+          "description": "CLI that runs several coding agents (Claude Code, Codex) on the same task, each in its own isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests, and merges the one that passes. Run metadata (prompts, models, commands, logs, messages, verdict) is versioned in the repo under refs/h5i/*. Rust, Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:19:44Z",
+            "owner": "h5i-dev",
+            "repo": "h5i",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:24:19Z",
+            "owner": "echoVic",
+            "repo": "orca-agent",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agency",
+          "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-08T06:11:11Z",
+            "owner": "neurocult",
+            "repo": "agency",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro Orchestrate",
+          "description": "Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Runs on Gemini CLI, Claude Code, and Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T07:00:06Z",
+            "owner": "josstei",
+            "repo": "maestro-orchestrate",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentRun",
+          "description": "The easiest, and fastest way to run AI-generated Python code safely",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T15:55:00Z",
+            "owner": "tjmlabs",
+            "repo": "AgentRun",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amux",
+          "description": "Agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T13:21:11Z",
+            "owner": "mixpeek",
+            "repo": "amux",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dorothy",
+          "description": "Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T13:21:25Z",
+            "owner": "Charlie85270",
+            "repo": "Dorothy",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greywall",
+          "description": "Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-11T18:03:45Z",
+            "owner": "GreyhavenHQ",
+            "repo": "greywall",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCodeAGI",
+          "description": "A small AGI experiment to generate a Python app given what app the user wants to build",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T06:48:22Z",
+            "owner": "chakkaradeep",
+            "repo": "pyCodeAGI",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Multi-cluster Kubernetes dashboard with AI-powered operations agent (kc-agent) providing MCP tools for managing workloads across edge and cloud clusters. CNCF project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:44:22Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctop",
+          "description": "htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T22:56:33Z",
+            "owner": "aakashadesara",
+            "repo": "ctop",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReviewCerberus",
+          "description": "100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T14:33:22Z",
+            "owner": "Kirill89",
+            "repo": "reviewcerberus",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Software Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Storm",
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-30T18:07:21Z",
+            "owner": "stanford-oval",
+            "repo": "storm",
+            "stars": 30963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Researcher",
+          "description": "GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:56:55Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 28956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Scientist",
+          "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-19T07:46:21Z",
+            "owner": "SakanaAI",
+            "repo": "AI-Scientist",
+            "stars": 14389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAnalyze",
+          "description": "first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research (produce analyst-grade research reports).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T03:12:26Z",
+            "owner": "ruc-datalab",
+            "repo": "DeepAnalyze",
+            "stars": 4523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIDE",
+          "description": "AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:12:00Z",
+            "owner": "WecoAI",
+            "repo": "aideml",
+            "stars": 1475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data-to-paper",
+          "description": "data-to-paper: AI-driven research from data to human-verifiable research papers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-19T15:01:19Z",
+            "owner": "Technion-Kishony-lab",
+            "repo": "data-to-paper",
+            "stars": 812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockAGI",
+          "description": "BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-19T04:10:24Z",
+            "owner": "orgexyz",
+            "repo": "BlockAGI",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLens AI",
+          "description": "Fully Autonomous Research Agent for Health Infomatics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T05:15:00Z",
+            "owner": "jarrycyx",
+            "repo": "openlens-ai",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cynative",
+          "description": "Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:33:02Z",
+            "owner": "cynative",
+            "repo": "cynative",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Colossal-AI",
+          "description": "LLM training and inference system whose ColossalChat application implements LLM with RLHF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:47:01Z",
+            "owner": "hpcaitech",
+            "repo": "ColossalAI",
+            "stars": 41434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letta",
+          "description": "Platform for stateful agents with advanced memory that learn and self-improve 📚🦙",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T18:24:30Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAgent",
+          "description": "Deploy LLM Agents to production",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T08:34:31Z",
+            "owner": "superagent-ai",
+            "repo": "superagent",
+            "stars": 6712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAgent",
+          "description": "Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supports computer-use, browser-use, coding agent, 30+ model providers, visual workflow builder, and MCP tools. Self-hostable with admin dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T14:38:08Z",
+            "owner": "the-open-agent",
+            "repo": "openagent",
+            "stars": 5512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasaGPT",
+          "description": "RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T14:43:36Z",
+            "owner": "paulpierre",
+            "repo": "RasaGPT",
+            "stars": 2464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orkas",
+          "description": "Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media; MIT-licensed with bring-your-own model keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:33:04Z",
+            "owner": "Orkas-AI",
+            "repo": "Orkas",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ouroboros",
+          "description": "Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:01:17Z",
+            "owner": "razzant",
+            "repo": "ouroboros",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ix",
+          "description": "Autonomous GPT-4 agent platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T05:38:33Z",
+            "owner": "kreneskyp",
+            "repo": "ix",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MateClaw",
+          "description": "Open-source personal AI operating system on Spring Boot + Spring AI Alibaba — one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels sharing the same agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T11:00:34Z",
+            "owner": "mateaix",
+            "repo": "mateclaw",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLama Cpp Agent",
+          "description": "The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T05:57:48Z",
+            "owner": "Maximilian-Winter",
+            "repo": "llama-cpp-agent",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joinly",
+          "description": "Voice-first AI Assistant for online meetings that can actively participate and solve tasks live during the meeting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T15:13:10Z",
+            "owner": "joinly-ai",
+            "repo": "joinly",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gobii",
+          "description": "Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:49:20Z",
+            "owner": "gobii-ai",
+            "repo": "gobii-platform",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal LangChain agents in Production",
+          "description": "Deploy LangChain Agents and connect them to Telegram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-27T15:01:48Z",
+            "owner": "steamship-core",
+            "repo": "langchain-production-starter",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonomous HR Chatbot",
+          "description": "An autonomous agent that can answer HR related queries autonomously using the tools it has on hand",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T06:34:58Z",
+            "owner": "stepanogil",
+            "repo": "autonomous-hr-chatbot",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClaudeClaw",
+          "description": "Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:02:20Z",
+            "owner": "sbusso",
+            "repo": "claudeclaw",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Conversational / General Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Voyager",
+          "description": "An Open-Ended Embodied Agent with Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T18:51:36Z",
+            "owner": "MineDojo",
+            "repo": "Voyager",
+            "stars": 7138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiroShark",
+          "description": "Universal swarm-intelligence engine — drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T01:46:26Z",
+            "owner": "MiroShark",
+            "repo": "MiroShark",
+            "stars": 1429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyAGI",
+          "description": "Emerging human-behavior simulation capability in LLM agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-21T12:38:34Z",
+            "owner": "litanlitudan",
+            "repo": "skyagi",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enclave",
+          "description": "Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T07:45:14Z",
+            "owner": "yuanzui0728",
+            "repo": "Enclave",
+            "stars": 179
+          }
+        }
+      ],
+      "title": "Game / Simulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Private GPT",
+          "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:47Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local GPT",
+          "description": "Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:15:01Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenpipe",
+          "description": "24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Gives AI agents long-term context of everything you've seen, said, or heard. MCP server for Claude. 100% local, MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:31:40Z",
+            "owner": "screenpipe",
+            "repo": "screenpipe",
+            "stars": 20929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hindsight",
+          "description": "State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, MCP, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:14:36Z",
+            "owner": "vectorize-io",
+            "repo": "hindsight",
+            "stars": 19879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IWE",
+          "description": "Markdown knowledge graph for you and your AI agents — editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:51:28Z",
+            "owner": "iwe-org",
+            "repo": "iwe",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeAlmanac",
+          "description": "Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:00:46Z",
+            "owner": "AlmanacCode",
+            "repo": "codealmanac",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemClaw",
+          "description": "Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:16:50Z",
+            "owner": "caura-ai",
+            "repo": "caura",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statewave",
+          "description": "Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:14:26Z",
+            "owner": "smaramwbc",
+            "repo": "statewave",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Second Brain AI Agent",
+          "description": "A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T10:04:37Z",
+            "owner": "flepied",
+            "repo": "second-brain-agent",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAGE",
+          "description": "Institutional memory for AI agents — every memory goes through BFT consensus before it's committed. 4 application validators, 13 MCP tools, runs locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:03:12Z",
+            "owner": "l33tdawg",
+            "repo": "sage",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piia-engram",
+          "description": "Cross-tool persistent memory for AI agents. Local-first identity and knowledge layer that works across Claude Code, Cursor, Codex, and any MCP-compatible client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:14:33Z",
+            "owner": "Patdolitse",
+            "repo": "piia-engram",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "Knowledge Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agno",
+          "description": "Build, run, and manage agent platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:10:07Z",
+            "owner": "agno-agi",
+            "repo": "agno",
+            "stars": 41692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAgent",
+          "description": "An Autonomous LLM Agent for Complex Task Solving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:30:54Z",
+            "owner": "OpenBMB",
+            "repo": "XAgent",
+            "stars": 8531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro",
+          "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T06:49:15Z",
+            "owner": "Doriandarko",
+            "repo": "maestro",
+            "stars": 4360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DemoGPT",
+          "description": "DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:30:12Z",
+            "owner": "melih-unsal",
+            "repo": "DemoGPT",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uAgents",
+          "description": "A fast and lightweight framework for creating decentralized agents with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:00:59Z",
+            "owner": "fetchai",
+            "repo": "uAgents",
+            "stars": 1637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADAS",
+          "description": "Automated Design of Agentic Systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T06:37:51Z",
+            "owner": "ShengranHu",
+            "repo": "ADAS",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RestGPT",
+          "description": "An LLM-based autonomous agent controlling real-world applications via RESTful APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T13:22:15Z",
+            "owner": "Yifan-Song793",
+            "repo": "RestGPT",
+            "stars": 1403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Agents",
+          "description": "Build agents which are controlled by LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T14:01:18Z",
+            "owner": "mpaepper",
+            "repo": "llm_agents",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentK",
+          "description": "An autoagentic AGI that is self-evolving and modular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-04T07:53:48Z",
+            "owner": "mikekelly",
+            "repo": "AgentK",
+            "stars": 970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giselle",
+          "description": "Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T00:12:18Z",
+            "owner": "giselles-ai",
+            "repo": "giselle",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llama-agents",
+          "description": "llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:05:38Z",
+            "owner": "run-llama",
+            "repo": "llama-agents",
+            "stars": 438
+          }
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Steel Browser",
+          "description": "Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T23:12:01Z",
+            "owner": "steel-dev",
+            "repo": "steel-browser",
+            "stars": 7475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAgents",
+          "description": "An Open Platform for Language Agents in the Wild",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T09:39:29Z",
+            "owner": "xlang-ai",
+            "repo": "OpenAgents",
+            "stars": 4854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invisible-playwright",
+          "description": "Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:24:04Z",
+            "owner": "feder-cr",
+            "repo": "invisible_playwright",
+            "stars": 1881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actionbook",
+          "description": "Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:59:11Z",
+            "owner": "actionbook",
+            "repo": "actionbook",
+            "stars": 1587
+          }
+        }
+      ],
+      "title": "Browser"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:34:13.371Z",
+    "original_repository": "kyrolabs/awesome-agents",
+    "original_repository_sha": "b207317f861910348eee026dd5bf0a60b1952509",
+    "enhanced_repository": "enhansome/enhansome-agents",
+    "enhanced_repository_description": null,
+    "title": "🤖 Awesome Agents with stars"
+  }
+}
